@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gmaps/directions_model.dart';
-import 'package:flutter_gmaps/directions_repository.dart';
+import 'package:flutter_gmaps/show.dart';
+import 'package:flutter_gmaps/repository.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() {
